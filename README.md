@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jurreyyahfirdaws-mohammad/jurreyyahfirdaws-mohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here's a little about me:
+## Here's a little about me:
 - 🔭 I’m currently pursuing Master's in Information Systems at Northeastern University 
 - 🌱  I’m extremely interested in Data/Business Analytics, Data Science and Data Engineering opportunities 
 - 💬 Ask me about anything!
