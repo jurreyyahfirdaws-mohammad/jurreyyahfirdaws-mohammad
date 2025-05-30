@@ -6,7 +6,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: firdawsmohammad.j@northeastern.edu
 - 😄 Pronouns: she/her
-- 💻 LinkedIn: https://www.linkedin.com/in/jurreyyah-firdaws/
+- 💻 LinkedIn
 
 ### Skills 👋
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1E90FF)
